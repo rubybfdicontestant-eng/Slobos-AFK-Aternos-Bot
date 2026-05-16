@@ -8,7 +8,7 @@
   "server": {
     "ip": "eggchanlover-gZgS.aternos.me",
     "port": 53335,
-    "version": "26.1.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,21 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "wsp bro",
+        "bro",
+        "LMAO",
+        "like bro what???",
+        "YO CHILL",
+        "stop bro",
+        "yo where's manepear?",
+        "im not invited bro?",
+        "what is up yo",
+        "like bro like bro like bro like bro like bro",
+        "yo anyone wanna like duel?",
+        "NO WAY BRO",
+        "yo trial chamber?",
+        "fine bro",
+        "dude what is bro actually doing XD"
       ]
     },
     "chat-log": true,
